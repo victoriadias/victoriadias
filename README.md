@@ -2,7 +2,7 @@
 
 **`Futura Desenvolvedora FullStack`**
 
-Me chamo Victoria Akemi Dias, tenho 28 anos. <br>
+Meu nome é Victoria Akemi Dias, tenho 28 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC, Full Stack no SENAI e Engenharia de Software na Unisagrado. Sou apaixonada por tecnologia e pretendo compartilhar meus conhecimentos com vocês. <br>
 
 
 ---
