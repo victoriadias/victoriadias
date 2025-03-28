@@ -7,7 +7,7 @@ Me chamo Victoria Akemi Dias, tenho 28 anos. <br>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📚 Linguagens e Tecnologias
 
 <img 
     align="left" 
