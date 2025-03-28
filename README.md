@@ -66,7 +66,7 @@ Me chamo Victoria Akemi Dias, tenho 28 anos. <br>
     title="VsCode"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" 
+    src="[https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)" 
 />
 
 
